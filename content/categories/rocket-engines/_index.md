@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Rocket engines
+description: Exploring how rocket engines work
 image:
 
 # Badge style
